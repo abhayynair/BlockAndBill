@@ -1,8 +1,14 @@
+#TrustMeBroLedger
+
 # On-chain Invoice Ledger (Sepolia testnet)
 
-**The question it answers:** when many invoices and payments exist, can anyone see who owes what, and what is overdue, from one shared record that nobody can quietly edit?
+When many invoices and payments exist, can anyone see who owes what, and what is overdue, from one shared record that nobody can quietly edit?
 
 Testnet only. The token has no value and there are no real funds or real users.
+
+## Background
+
+This is the same problem as the invoice reconciliation work I did at ODeX Global in Dubai (about 500 invoices against 252 onboarded companies), done with a shared record: invoice, payment, balance, status.
 
 ## What it is
 
@@ -61,6 +67,3 @@ Wallets used in the demo:
 
 Solidity 0.8.34, optimiser on with 200 runs, EVM version paris, MIT licence.
 
-## Background
-
-This is the same problem as the invoice reconciliation work I did at ODeX Global in Dubai (about 500 invoices against 252 onboarded companies), done with a shared record: invoice, payment, balance, status.
