@@ -1,4 +1,4 @@
-#TrustMeBroLedger
+# TrustMeBroLedger
 
 # On-chain Invoice Ledger (Sepolia testnet)
 
@@ -8,7 +8,7 @@ Testnet only. The token has no value and there are no real funds or real users.
 
 ## Background
 
-This is the same problem as the invoice reconciliation work I did at ODeX Global in Dubai (about 500 invoices against 252 onboarded companies), done with a shared record: invoice, payment, balance, status.
+This is the same problem as the invoice reconciliation work I did as a Business Analytics and Development Intern at ODeX Global in Dubai (about 500 invoices against 252 onboarded companies), done with a shared record: invoice, payment, balance, status.
 
 ## What it is
 
