@@ -2,7 +2,7 @@
 
 # On-chain Invoice Ledger (Sepolia testnet)
 
-When many invoices and payments exist, can anyone see who owes what, and what is overdue, from one shared record that nobody can quietly edit?
+When many invoices and payments exist, can anyone see who owes what, and what is overdue, from one shared record that nobody can edit?
 
 Testnet only. The token has no value and there are no real funds or real users.
 
